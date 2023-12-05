@@ -1,0 +1,137 @@
+C:\Users\Alexis\Downloads\prueba2\prueba2\bin\Debug\prueba2.exe.config
+C:\Users\Alexis\Downloads\prueba2\prueba2\bin\Debug\prueba2.exe
+C:\Users\Alexis\Downloads\prueba2\prueba2\bin\Debug\prueba2.pdb
+C:\Users\Alexis\Downloads\prueba2\prueba2\bin\Debug\EntityFramework.dll
+C:\Users\Alexis\Downloads\prueba2\prueba2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alexis\Downloads\prueba2\prueba2\bin\Debug\EntityFramework.xml
+C:\Users\Alexis\Downloads\prueba2\prueba2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alexis\Downloads\prueba2\prueba2\obj\Debug\Inso-Inv.csproj.AssemblyReference.cache
+C:\Users\Alexis\Downloads\prueba2\prueba2\obj\Debug\prueba2.Crear_Producto.resources
+C:\Users\Alexis\Downloads\prueba2\prueba2\obj\Debug\prueba2.Entrada_Producto.resources
+C:\Users\Alexis\Downloads\prueba2\prueba2\obj\Debug\prueba2.Interface_main.resources
+C:\Users\Alexis\Downloads\prueba2\prueba2\obj\Debug\prueba2.Salida_Producto.resources
+C:\Users\Alexis\Downloads\prueba2\prueba2\obj\Debug\Inso-Inv.csproj.GenerateResource.cache
+C:\Users\Alexis\Downloads\prueba2\prueba2\obj\Debug\Inso-Inv.csproj.CoreCompileInputs.cache
+C:\Users\Alexis\Downloads\prueba2\prueba2\obj\Debug\Inso-Inv.csproj.CopyComplete
+C:\Users\Alexis\Downloads\prueba2\prueba2\obj\Debug\prueba2.exe
+C:\Users\Alexis\Downloads\prueba2\prueba2\obj\Debug\prueba2.pdb
+D:\Jorge\Desktop\VF-inso2\prueba2\prueba2\obj\Debug\Inso-Inv.csproj.AssemblyReference.cache
+D:\Jorge\Desktop\VF-inso2\prueba2\prueba2\obj\Debug\prueba2.Crear_Producto.resources
+D:\Jorge\Desktop\VF-inso2\prueba2\prueba2\obj\Debug\prueba2.Entrada_Producto.resources
+D:\Jorge\Desktop\VF-inso2\prueba2\prueba2\obj\Debug\prueba2.Interface_main.resources
+D:\Jorge\Desktop\VF-inso2\prueba2\prueba2\obj\Debug\prueba2.Salida_Producto.resources
+D:\Jorge\Desktop\VF-inso2\prueba2\prueba2\obj\Debug\Inso-Inv.csproj.GenerateResource.cache
+D:\Jorge\Desktop\VF-inso2\prueba2\prueba2\obj\Debug\Inso-Inv.csproj.CoreCompileInputs.cache
+D:\Jorge\Desktop\VF-inso2\prueba2\prueba2\obj\Debug\prueba2.exe
+D:\Jorge\Desktop\VF-inso2\prueba2\prueba2\obj\Debug\prueba2.pdb
+D:\Jorge\Desktop\VF-inso2\prueba2\prueba2\obj\Debug\prueba2.Properties.Resources.resources
+D:\Jorge\Desktop\VF-inso2\prueba2\prueba2\bin\Debug\prueba2.exe.config
+D:\Jorge\Desktop\VF-inso2\prueba2\prueba2\bin\Debug\prueba2.exe
+D:\Jorge\Desktop\VF-inso2\prueba2\prueba2\bin\Debug\prueba2.pdb
+D:\Jorge\Desktop\VF-inso2\prueba2\prueba2\bin\Debug\EntityFramework.dll
+D:\Jorge\Desktop\VF-inso2\prueba2\prueba2\bin\Debug\EntityFramework.SqlServer.dll
+D:\Jorge\Desktop\VF-inso2\prueba2\prueba2\bin\Debug\EntityFramework.xml
+D:\Jorge\Desktop\VF-inso2\prueba2\prueba2\bin\Debug\EntityFramework.SqlServer.xml
+D:\Jorge\Desktop\VF-inso2\prueba2\prueba2\obj\Debug\Inso-Inv.csproj.CopyComplete
+D:\Jorge\Desktop\VF-inso2\prueba2\prueba2\bin\Debug\prueba2.exe.manifest
+D:\Jorge\Desktop\VF-inso2\prueba2\prueba2\bin\Debug\prueba2.application
+D:\Jorge\Desktop\VF-inso2\prueba2\prueba2\obj\Debug\prueba2.exe.manifest
+D:\Jorge\Desktop\VF-inso2\prueba2\prueba2\obj\Debug\prueba2.application
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Debug\ProyectoInso.exe.config
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Debug\ProyectoInso.exe.manifest
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Debug\ProyectoInso.application
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Debug\ProyectoInso.exe
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Debug\ProyectoInso.pdb
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Debug\EntityFramework.dll
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Debug\Google.Protobuf.dll
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Debug\MySql.Data.dll
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Debug\System.Buffers.dll
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Debug\System.Memory.dll
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Debug\ZstdSharp.dll
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Debug\EntityFramework.xml
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Debug\Google.Protobuf.pdb
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Debug\Google.Protobuf.xml
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Debug\MySql.Data.xml
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Debug\System.Buffers.xml
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Debug\System.Memory.xml
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Alexis\Documents\prueba2\prueba2\obj\Debug\Inso-Inv.csproj.AssemblyReference.cache
+C:\Users\Alexis\Documents\prueba2\prueba2\obj\Debug\prueba2.Crear_Producto.resources
+C:\Users\Alexis\Documents\prueba2\prueba2\obj\Debug\prueba2.Entrada_Producto.resources
+C:\Users\Alexis\Documents\prueba2\prueba2\obj\Debug\prueba2.Interface_main.resources
+C:\Users\Alexis\Documents\prueba2\prueba2\obj\Debug\ProyectoInso.Properties.Resources.resources
+C:\Users\Alexis\Documents\prueba2\prueba2\obj\Debug\prueba2.Salida_Producto.resources
+C:\Users\Alexis\Documents\prueba2\prueba2\obj\Debug\Inso-Inv.csproj.GenerateResource.cache
+C:\Users\Alexis\Documents\prueba2\prueba2\obj\Debug\Inso-Inv.csproj.CoreCompileInputs.cache
+C:\Users\Alexis\Documents\prueba2\prueba2\obj\Debug\ProyectoInso.exe.manifest
+C:\Users\Alexis\Documents\prueba2\prueba2\obj\Debug\ProyectoInso.application
+C:\Users\Alexis\Documents\prueba2\prueba2\obj\Debug\Inso-Inv.csproj.CopyComplete
+C:\Users\Alexis\Documents\prueba2\prueba2\obj\Debug\ProyectoInso.exe
+C:\Users\Alexis\Documents\prueba2\prueba2\obj\Debug\ProyectoInso.pdb
+D:\Jorge\Desktop\INSO - -2\MEJORA\prueba2\prueba2\obj\Debug\Inso-Inv.csproj.AssemblyReference.cache
+D:\Jorge\Desktop\INSO - -2\MEJORA\prueba2\prueba2\obj\Debug\prueba2.Crear_Producto.resources
+D:\Jorge\Desktop\INSO - -2\MEJORA\prueba2\prueba2\obj\Debug\prueba2.Entrada_Producto.resources
+D:\Jorge\Desktop\INSO - -2\MEJORA\prueba2\prueba2\obj\Debug\ProyectoInso.Interface_main.resources
+D:\Jorge\Desktop\INSO - -2\MEJORA\prueba2\prueba2\obj\Debug\ProyectoInso.Properties.Resources.resources
+D:\Jorge\Desktop\INSO - -2\MEJORA\prueba2\prueba2\obj\Debug\prueba2.Salida_Producto.resources
+D:\Jorge\Desktop\INSO - -2\MEJORA\prueba2\prueba2\obj\Debug\Inso-Inv.csproj.GenerateResource.cache
+D:\Jorge\Desktop\INSO - -2\MEJORA\prueba2\prueba2\obj\Debug\Inso-Inv.csproj.CoreCompileInputs.cache
+D:\Jorge\Desktop\INSO - -2\MEJORA\prueba2\prueba2\obj\Debug\ProyectoInso.exe
+D:\Jorge\Desktop\INSO - -2\MEJORA\prueba2\prueba2\obj\Debug\ProyectoInso.pdb
+D:\Jorge\Desktop\INSO - -2\MEJORA\prueba2\prueba2\obj\Debug\ProyectoInso.Crear_Producto.resources
+D:\Jorge\Desktop\INSO - -2\MEJORA\prueba2\prueba2\obj\Debug\ProyectoInso.Entrada_Producto.resources
+D:\Jorge\Desktop\INSO - -2\MEJORA\prueba2\prueba2\obj\Debug\ProyectoInso.Salida_Producto.resources
+C:\Users\Alexis\Music\prueba2\prueba2\obj\Debug\Inso-Inv.csproj.AssemblyReference.cache
+C:\Users\Alexis\Music\prueba2\prueba2\obj\Debug\prueba2.Crear_Producto.resources
+C:\Users\Alexis\Music\prueba2\prueba2\obj\Debug\prueba2.Entrada_Producto.resources
+C:\Users\Alexis\Music\prueba2\prueba2\obj\Debug\ProyectoInso.Interface_main.resources
+C:\Users\Alexis\Music\prueba2\prueba2\obj\Debug\ProyectoInso.Properties.Resources.resources
+C:\Users\Alexis\Music\prueba2\prueba2\obj\Debug\prueba2.Salida_Producto.resources
+C:\Users\Alexis\Music\prueba2\prueba2\obj\Debug\Inso-Inv.csproj.GenerateResource.cache
+C:\Users\Alexis\Music\prueba2\prueba2\obj\Debug\Inso-Inv.csproj.CoreCompileInputs.cache
+C:\Users\Alexis\Music\POO-BUENA2\prueba2\obj\Debug\Inso-Inv.csproj.AssemblyReference.cache
+C:\Users\Alexis\Music\POO-BUENA2\prueba2\obj\Debug\prueba2.Crear_Producto.resources
+C:\Users\Alexis\Music\POO-BUENA2\prueba2\obj\Debug\prueba2.Entrada_Producto.resources
+C:\Users\Alexis\Music\POO-BUENA2\prueba2\obj\Debug\ProyectoInso.Interface_main.resources
+C:\Users\Alexis\Music\POO-BUENA2\prueba2\obj\Debug\ProyectoInso.Properties.Resources.resources
+C:\Users\Alexis\Music\POO-BUENA2\prueba2\obj\Debug\prueba2.Salida_Producto.resources
+C:\Users\Alexis\Music\POO-BUENA2\prueba2\obj\Debug\Inso-Inv.csproj.GenerateResource.cache
+C:\Users\Alexis\Music\POO-BUENA2\prueba2\obj\Debug\Inso-Inv.csproj.CoreCompileInputs.cache
+C:\Users\Alexis\Music\POO-BUENA3\prueba2\obj\Debug\Inso-Inv.csproj.AssemblyReference.cache
+C:\Users\Alexis\Music\POO-BUENA3\prueba2\obj\Debug\prueba2.Crear_Producto.resources
+C:\Users\Alexis\Music\POO-BUENA3\prueba2\obj\Debug\prueba2.Entrada_Producto.resources
+C:\Users\Alexis\Music\POO-BUENA3\prueba2\obj\Debug\ProyectoInso.Interface_main.resources
+C:\Users\Alexis\Music\POO-BUENA3\prueba2\obj\Debug\ProyectoInso.Properties.Resources.resources
+C:\Users\Alexis\Music\POO-BUENA3\prueba2\obj\Debug\prueba2.Salida_Producto.resources
+C:\Users\Alexis\Music\POO-BUENA3\prueba2\obj\Debug\Inso-Inv.csproj.GenerateResource.cache
+C:\Users\Alexis\Music\POO-BUENA3\prueba2\obj\Debug\Inso-Inv.csproj.CoreCompileInputs.cache
+C:\Users\Alexis\Music\POO-BUENA4\prueba2\obj\Debug\Inso-Inv.csproj.AssemblyReference.cache
+C:\Users\Alexis\Music\POO-BUENA4\prueba2\obj\Debug\prueba2.Crear_Producto.resources
+C:\Users\Alexis\Music\POO-BUENA4\prueba2\obj\Debug\prueba2.Entrada_Producto.resources
+C:\Users\Alexis\Music\POO-BUENA4\prueba2\obj\Debug\ProyectoInso.Interface_main.resources
+C:\Users\Alexis\Music\POO-BUENA4\prueba2\obj\Debug\ProyectoInso.Properties.Resources.resources
+C:\Users\Alexis\Music\POO-BUENA4\prueba2\obj\Debug\prueba2.Salida_Producto.resources
+C:\Users\Alexis\Music\POO-BUENA4\prueba2\obj\Debug\Inso-Inv.csproj.GenerateResource.cache
+C:\Users\Alexis\Music\POO-BUENA4\prueba2\obj\Debug\Inso-Inv.csproj.CoreCompileInputs.cache

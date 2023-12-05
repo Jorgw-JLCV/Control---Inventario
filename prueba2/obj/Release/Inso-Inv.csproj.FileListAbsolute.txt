@@ -1,0 +1,63 @@
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Release\ProyectoInso.exe.config
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Release\ProyectoInso.exe.manifest
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Release\ProyectoInso.application
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Release\ProyectoInso.exe
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Release\ProyectoInso.pdb
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Release\BouncyCastle.Cryptography.dll
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Release\EntityFramework.dll
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Release\Google.Protobuf.dll
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Release\MySql.Data.dll
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Release\System.Buffers.dll
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Release\System.Configuration.ConfigurationManager.dll
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Release\System.IO.Pipelines.dll
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Release\System.Memory.dll
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Release\System.Numerics.Vectors.dll
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Release\ZstdSharp.dll
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Release\BouncyCastle.Cryptography.xml
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Release\EntityFramework.xml
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Release\Google.Protobuf.pdb
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Release\Google.Protobuf.xml
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Release\K4os.Compression.LZ4.xml
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Release\K4os.Compression.LZ4.Streams.xml
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Release\K4os.Hash.xxHash.xml
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Release\MySql.Data.xml
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Release\System.Buffers.xml
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Release\System.IO.Pipelines.xml
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Release\System.Memory.xml
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Release\System.Numerics.Vectors.xml
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Alexis\Documents\prueba2\prueba2\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\Alexis\Documents\prueba2\prueba2\obj\Release\Inso-Inv.csproj.AssemblyReference.cache
+C:\Users\Alexis\Documents\prueba2\prueba2\obj\Release\prueba2.Crear_Producto.resources
+C:\Users\Alexis\Documents\prueba2\prueba2\obj\Release\prueba2.Entrada_Producto.resources
+C:\Users\Alexis\Documents\prueba2\prueba2\obj\Release\prueba2.Interface_main.resources
+C:\Users\Alexis\Documents\prueba2\prueba2\obj\Release\ProyectoInso.Properties.Resources.resources
+C:\Users\Alexis\Documents\prueba2\prueba2\obj\Release\prueba2.Salida_Producto.resources
+C:\Users\Alexis\Documents\prueba2\prueba2\obj\Release\Inso-Inv.csproj.GenerateResource.cache
+C:\Users\Alexis\Documents\prueba2\prueba2\obj\Release\Inso-Inv.csproj.CoreCompileInputs.cache
+C:\Users\Alexis\Documents\prueba2\prueba2\obj\Release\ProyectoInso.exe.manifest
+C:\Users\Alexis\Documents\prueba2\prueba2\obj\Release\ProyectoInso.application
+C:\Users\Alexis\Documents\prueba2\prueba2\obj\Release\Inso-Inv.csproj.CopyComplete
+C:\Users\Alexis\Documents\prueba2\prueba2\obj\Release\ProyectoInso.exe
+C:\Users\Alexis\Documents\prueba2\prueba2\obj\Release\ProyectoInso.pdb
+D:\Jorge\Desktop\INSO - -2\MEJORA\prueba2\prueba2\obj\Release\Inso-Inv.csproj.AssemblyReference.cache
+D:\Jorge\Desktop\INSO - -2\MEJORA\prueba2\prueba2\obj\Release\prueba2.Crear_Producto.resources
+D:\Jorge\Desktop\INSO - -2\MEJORA\prueba2\prueba2\obj\Release\prueba2.Entrada_Producto.resources
+D:\Jorge\Desktop\INSO - -2\MEJORA\prueba2\prueba2\obj\Release\ProyectoInso.Interface_main.resources
+D:\Jorge\Desktop\INSO - -2\MEJORA\prueba2\prueba2\obj\Release\ProyectoInso.Properties.Resources.resources
+D:\Jorge\Desktop\INSO - -2\MEJORA\prueba2\prueba2\obj\Release\prueba2.Salida_Producto.resources
+D:\Jorge\Desktop\INSO - -2\MEJORA\prueba2\prueba2\obj\Release\Inso-Inv.csproj.GenerateResource.cache
+D:\Jorge\Desktop\INSO - -2\MEJORA\prueba2\prueba2\obj\Release\Inso-Inv.csproj.CoreCompileInputs.cache
+D:\Jorge\Desktop\INSO - -2\MEJORA\prueba2\prueba2\obj\Release\ProyectoInso.exe
+D:\Jorge\Desktop\INSO - -2\MEJORA\prueba2\prueba2\obj\Release\ProyectoInso.pdb
